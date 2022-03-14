@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+<!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 
 
 ```
@@ -28,7 +28,7 @@ const Aarif_alam = {
 }
 ```
 
-- 🔭 I’m currently Mentoring students at NavGurukul.
+- 🔭 I’m currently Mentoring students at NavGurukul https://navgurukul.org/hire.html
 - 🌱 I’m currently learning web-development form Devsnest.
 - 📫 Check my professional history here: https://www.linkedin.com/in/aarif-alam-bb176a231/
 - ⚡ Fun fact: Learning new things every day !
