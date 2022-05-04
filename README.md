@@ -31,7 +31,7 @@ const Aarif_alam = {
 
 - 🔭 I’m currently Mentoring students at NavGurukul https://navgurukul.org/hire.html
 - 🌱 I’m currently learning web-development form Devsnest.
-- 📫 Check my professional history here: https://wwww.linkedin.com/in/aariffulalam/
+- 📫 Check my professional history here: https://www.linkedin.com/in/aariffulalam/
 - ⚡ Fun fact: Learning new things every day !
 
 ## 🔧 Technologies & Tools
@@ -41,7 +41,7 @@ const Aarif_alam = {
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=Ppostgresql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
 
