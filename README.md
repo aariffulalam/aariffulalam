@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aarif Alam
 
-🚀 A results-driven Backend Developer with 3+ years of experience building scalable microservices, Admin Dashboards, and real-world backend systems. I specialize in backend engineering, cloud-native deployment, and system design — leveraging modern technologies and best practices to deliver robust, maintainable solutions.
+🚀 A results-driven Backend Developer with 3+ years of experience building scalable microservices, Admin Dashboards, and robust backend systems. I specialize in backend development, cloud integration, and system design — leveraging modern technologies and engineering best practices to deliver reliable, maintainable solutions.
 
 ---
 
@@ -50,9 +50,9 @@
 ## 📊 GitHub Stats
 
 <a href="https://github.com/aariffulalam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aariffulalam&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=333333&icon_color=6aa6f8&bg_color=ffffff" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aariffulalam&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Top Languages" />
 </a>
 
 <a href="https://github.com/aariffulalam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aariffulalam&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=333333&icon_color=6aa6f8&bg_color=ffffff" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aariffulalam&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="GitHub Stats" />
 </a>
