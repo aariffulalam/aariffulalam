@@ -1,0 +1,77 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=1.2cm, top=1.2cm]{geometry}
+\usepackage{enumitem}
+\usepackage[colorlinks=true, urlcolor=blue]{hyperref}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{multicol}
+\setlength{\parindent}{0pt}
+\pagestyle{empty}
+
+% Section styling
+\titleformat{\section}{\large\bfseries}{}{0em}{}
+\titlespacing{\section}{0pt}{8pt}{4pt}
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Aarif Alam}} \\
+    Backend Developer \\
+    Harirampur, West Bengal, India \\
+    \href{mailto:aarifalam.dev@gmail.com}{aarifalam.dev@gmail.com} \quad | \quad +91-XXXXXXXXXX \\
+    \href{https://github.com/aariffulalam}{GitHub} \quad
+    \href{https://www.linkedin.com/in/aariffulalam/}{LinkedIn} \quad
+    \href{https://leetcode.com/u/aariffulalam/}{LeetCode}
+\end{center}
+
+\vspace{-4pt}
+\section*{Professional Summary}
+Backend Developer with 3+ years' experience designing and maintaining scalable, cloud-native systems. Skilled in Java (Spring Boot), Node.js, FastAPI, MySQL, Redis, Docker, and AWS. Experienced in building microservices, admin dashboards, REST APIs, and internal tools.
+
+\section*{Core Skills}
+\begin{multicols}{2}
+\begin{itemize}[leftmargin=*]
+    \item Java, JavaScript, Python, SQL
+    \item Spring Boot, Node.js, FastAPI, Express
+    \item MySQL, PostgreSQL, MongoDB, Redis
+    \item Docker, AWS (EC2, ECS, RDS, CloudWatch)
+    \item Git, Postman, REST APIs, System Design
+    \item Crons, Caching, Microservices Architecture
+\end{itemize}
+\end{multicols}
+
+\section*{Work Experience}
+\textbf{Jetbro Technologies} \hfill \textit{2023 – Present} \\
+\textit{Backend Developer}
+\begin{itemize}[leftmargin=*]
+    \item Built scalable microservices and admin tools using Spring Boot and Node.js.
+    \item \textbf{Lehlah}: Created reconciliation system and APIs for a social commerce platform.
+    \item \textbf{Beardo}: Developed seller attendance APIs with reporting and monitoring.
+    \item \textbf{Pluckk}: Built features for admin dashboard including role-based access and warehouse analytics.
+    \item Wrote crons and SQL procedures for data automation and cleanup.
+    \item Containerized services using Docker; deployed and monitored using AWS.
+    \item Built tools like Link Expander Microservice and internal dashboards.
+\end{itemize}
+
+\section*{Projects}
+\textbf{Link Expander Microservice} – \href{https://github.com/aariffulalam/url-expander}{GitHub} \\
+Expands shortened URLs to their destination. Used in tracking and safe redirects.
+
+\textbf{Todo App API} – \href{https://github.com/aariffulalam/todo-mongo-api}{GitHub} \\
+A secure CRUD API with JWT Auth built using Express.js and MongoDB.
+
+\textbf{E-commerce Product API} – \href{https://github.com/aariffulalam/ecommerce-backend}{GitHub} \\
+Backend mock for managing products, cart, and search filters.
+
+\textbf{FastAPI Link Preview} – \href{https://github.com/aariffulalam/fastapi-link-preview}{GitHub} \\
+Fetches webpage metadata using FastAPI and BeautifulSoup.
+
+\section*{Certifications}
+AWS Cloud Practitioner, Docker Essentials (IBM), Java (Duke), Git (Atlassian), MongoDB Basics, Google Cloud Essentials, DSA Specialization, Spring Framework, SQL for Data Science  
+\textit{(Full list available on LinkedIn)}
+
+\section*{Education}
+\textbf{Bachelor of Computer Applications (BCA)} \\
+[University Name], [Year of Graduation]
+
+\end{document}
