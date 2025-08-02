@@ -10,68 +10,71 @@
 
 % Section styling
 \titleformat{\section}{\large\bfseries}{}{0em}{}
-\titlespacing{\section}{0pt}{8pt}{4pt}
+\titlespacing{\section}{0pt}{2pt}{1pt}
 
 \begin{document}
 
 \begin{center}
-    {\LARGE \textbf{Aarif Alam}} \\
-    Backend Developer \\
+    {\LARGE Aarif Alam - \textbf{Backend Developer}} \\
     Harirampur, West Bengal, India \\
-    \href{mailto:aarifalam.dev@gmail.com}{aarifalam.dev@gmail.com} \quad | \quad +91-XXXXXXXXXX \\
+    aariffulalam36@gmail.com \quad  \quad +91-7701941030 \\
     \href{https://github.com/aariffulalam}{GitHub} \quad
     \href{https://www.linkedin.com/in/aariffulalam/}{LinkedIn} \quad
     \href{https://leetcode.com/u/aariffulalam/}{LeetCode}
 \end{center}
 
 \vspace{-4pt}
+\vspace{0.5em}
+
+
 \section*{Professional Summary}
-Backend Developer with 3+ years' experience designing and maintaining scalable, cloud-native systems. Skilled in Java (Spring Boot), Node.js, FastAPI, MySQL, Redis, Docker, and AWS. Experienced in building microservices, admin dashboards, REST APIs, and internal tools.
+Backend Developer with 3+ years’ experience designing and maintaining scalable, cloud-native systems. Skilled in Node.js, FastAPI, MySQL, Redis, Docker, and AWS. Experienced in building microservices, admin dashboards, REST APIs, Reconciliation systems, and internal tools.\\
+Mensa International member (99th percentile IQ) with a strong foundation in analytical thinking and problem-solving.
+\vspace{0.5em}
+
 
 \section*{Core Skills}
 \begin{multicols}{2}
 \begin{itemize}[leftmargin=*]
-    \item Java, JavaScript, Python, SQL
-    \item Spring Boot, Node.js, FastAPI, Express
+    \item JavaScript, Python, SQL, Java(learning)
+    \item Node.js, FastAPI, Express, Next.js, React.js
     \item MySQL, PostgreSQL, MongoDB, Redis
     \item Docker, AWS (EC2, ECS, RDS, CloudWatch)
     \item Git, Postman, REST APIs, System Design
-    \item Crons, Caching, Microservices Architecture
+    \item Crons, Sql-Procedures, Microservices Architecture
 \end{itemize}
 \end{multicols}
+\vspace{1em}
+
 
 \section*{Work Experience}
-\textbf{Jetbro Technologies} \hfill \textit{2023 – Present} \\
-\textit{Backend Developer}
-\begin{itemize}[leftmargin=*]
-    \item Built scalable microservices and admin tools using Spring Boot and Node.js.
-    \item \textbf{Lehlah}: Created reconciliation system and APIs for a social commerce platform.
-    \item \textbf{Beardo}: Developed seller attendance APIs with reporting and monitoring.
-    \item \textbf{Pluckk}: Built features for admin dashboard including role-based access and warehouse analytics.
-    \item Wrote crons and SQL procedures for data automation and cleanup.
-    \item Containerized services using Docker; deployed and monitored using AWS.
-    \item Built tools like Link Expander Microservice and internal dashboards.
+\hspace*{1em}\textbf{\underline{Jetbro Private Limited}} \hfill \textit{2022 – Present} \\
+\hspace*{1em}\textit{Backend Developer}
+\begin{itemize}[leftmargin=2em]
+    \item Built scalable backend systems and reusable services for multi-tenant applications across diverse domains.
+    \item Designed and implemented RESTful APIs and internal tools for dashboards and data management.
+    \item Worked on containerization and cloud deployment using Docker and AWS EC2/ECS.
 \end{itemize}
+\vspace{1em}
+
 
 \section*{Projects}
-\textbf{Link Expander Microservice} – \href{https://github.com/aariffulalam/url-expander}{GitHub} \\
-Expands shortened URLs to their destination. Used in tracking and safe redirects.
+\vspace{0.5em}
 
-\textbf{Todo App API} – \href{https://github.com/aariffulalam/todo-mongo-api}{GitHub} \\
-A secure CRUD API with JWT Auth built using Express.js and MongoDB.
+\hspace*{1em}\textbf{\underline{\href{https://lehlah.club/}{Lehlah}}} – Social Media E-commerce Application \\
+Developed the backend and admin panel for a platform where influencers share posts embedded with product links, enabling commission-based earnings. The system supported real-time post insights and reconciliation features.
 
-\textbf{E-commerce Product API} – \href{https://github.com/aariffulalam/ecommerce-backend}{GitHub} \\
-Backend mock for managing products, cart, and search filters.
+\hspace*{1em}\textbf{\underline{\href{https://beardo.in/}{Beardo}}} – Seller Attendance \& Admin Dashboard \\
+Created the backend for a seller-facing attendance app and an admin dashboard for monitoring attendance data and reporting insights. Included data validation, reporting layers, and reliability-focused enhancements.
 
-\textbf{FastAPI Link Preview} – \href{https://github.com/aariffulalam/fastapi-link-preview}{GitHub} \\
-Fetches webpage metadata using FastAPI and BeautifulSoup.
+\hspace*{1em}\textbf{\underline{\href{https://pluckk.in/}{Pluckk}}} – Warehouse And Sales Admin Dashboard \\
+Built dashboards that tracked product movement across warehouses and visualized sales metrics to help optimize logistics and performance tracking. Included modules for vendor management and analytics.
+\vspace{0.5em}
 
-\section*{Certifications}
-AWS Cloud Practitioner, Docker Essentials (IBM), Java (Duke), Git (Atlassian), MongoDB Basics, Google Cloud Essentials, DSA Specialization, Spring Framework, SQL for Data Science  
-\textit{(Full list available on LinkedIn)}
 
 \section*{Education}
-\textbf{Bachelor of Computer Applications (BCA)} \\
-[University Name], [Year of Graduation]
-
+\hspace*{1em}\textbf{\underline{NavGurukul}} \hfill \textit{2021 – 2022} \\
+\hspace*{1em}\textit{Certificate in Software Engineering}
+\begin{itemize}[leftmargin=2em]
+    \item Completed a fully-funded, one-year residential program focused on software engineering and web development.
 \end{document}
